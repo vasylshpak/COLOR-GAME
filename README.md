@@ -1,9 +1,7 @@
-# PLEASE DOWLOAND THE REPOSITORY TO SEE THE PROJECT
-
-COLOR GAME CREATED WITH SIMPLE JAVASCRIPT
 
 
-# Really Simple Free Responsive HTML Email Template
+
+# COLOR GAME CREATED WITH SIMPLE JAVASCRIPT
 
 COLOR GAME CREATED WITH SIMPLE JAVASCRIPT
 
@@ -14,19 +12,21 @@ COLOR GAME CREATED WITH SIMPLE JAVASCRIPT
 
 ## Intro
 
-I try to make this Email template with RWD and readable on all available browsers, mobile and email clients such a Gmail, Outlook, Thunderbird
+Made this color game with udemy course
 
 ### Setting
 
 please download to to check it out
 
 
-https://github.com/vasylshpak/HTML-DARK-EMAIL/archive/master.zip
+https://github.com/vasylshpak/COLOR-GAME/archive/master.zip
 
 
 ## Built With
 
 * HTML
+* CSS
+* javaScript
 
 ## License
 
